@@ -23,4 +23,5 @@ public:
     void sub(uint32_t op1, uint32_t op2);
     void bitwiseXor(uint32_t op1, uint32_t op2);
 };
+//#include "assemblyReader.cpp"
 #endif
